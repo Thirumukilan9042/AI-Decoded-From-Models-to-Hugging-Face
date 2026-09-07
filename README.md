@@ -542,9 +542,9 @@ https://docs.python.org/
 ## 22. Author
 
 **Name:** THIRUMUKILAN  
-**Course:** YOUR COURSE  
-**Department:** YOUR DEPARTMENT  
-**College:** Coimbatore Institute of Technology
+**Course:** AI Decoded From Model to Hugging Face  
+**Department:** CSE
+**College:** KPR Institute of Engineering And Technology
 
 ---
 
